@@ -1,2 +1,2 @@
 # SeleniumProjectWithFramework
-This is an Selenium project i had for practice purposes
+This is a Selenium project i had for practice purposes
